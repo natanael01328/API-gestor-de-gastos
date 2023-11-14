@@ -1,8 +1,8 @@
 Cordial saludo profesor
 como se fija lo realice yo solo
- ya que todos tenian compañeros.
+ ya que todos tenian compaÃ±eros.
 
-es un gestor de gastos que cuenta con un CRUD, donde
+es un gestor de gastos, que cuenta con un CRUD, donde
 le implemente codigo limpio como buenas practicas.
 utilizando PHP, JAVA, CSS y su motor de base de datos MysQLserver.
 
